@@ -1,5 +1,5 @@
 # Microsoft Graph - Utility Scripts for PowerShell
-This repository contains some PowerShell scripts that improve my daily development or administration work. These scripts are all using the [Microsoft Graph PowerShell module](https://docs.microsoft.com/en-us/graph/powershell/installation?WT.mc_id=M365-MVP-5003400.  
+This repository contains some PowerShell scripts that improve my daily development or administration work. These scripts are all using the [Microsoft Graph PowerShell module](https://docs.microsoft.com/en-us/graph/powershell/installation?WT.mc_id=M365-MVP-5003400).  
 All these scripts work on PowerShell Core / PowerShell 7.1.
 
 ## Prerequisites
