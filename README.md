@@ -37,6 +37,9 @@ Provide an intuitive way to revoke Application Permissions and Delegated Permiss
 
 #### Usage
 ```
+# Connect with the required permission scope
+Connect-MgGraph -Scopes "Directory.AccessAsUser.All"
+
 . ./RevokePermissionConsentFromServicePrincipal.ps1
 Revoke-PermissionConsentFromServicePrincipal
 ```
